@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm António Amaral</h1>
 <h3 align="center">A frontend developer from Portugal 🇵🇹</h3>
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=dibrooo&label=Profile%20views&color=0e75b6&style=flat"
-    alt="dibrooo"
-  />
-</p>
 - 📫 How to reach me <strong>antonio.amaral.7778@gmail.com</strong>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
