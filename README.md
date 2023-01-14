@@ -22,33 +22,34 @@
       height="40"
     />
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+      alt="sass"
+      width="40"
+      height="40"
+    />
+  </a>
+  <br />
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"
       alt="blender"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
-      alt="cypress"
       width="40"
       height="40"
     />
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
       alt="figma"
       width="40"
       height="40"
@@ -60,15 +61,24 @@
     rel="noreferrer"
   >
     <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg"
       alt="illustrator"
       width="40"
       height="40"
     />
   </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"
+      alt="photoshop"
+      width="40"
+      height="40"
+    />
+  </a>
+  <br />
   <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg"
       alt="jasmine"
       width="40"
       height="40"
@@ -80,40 +90,8 @@
     rel="noreferrer"
   >
     <img
-      src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg"
       alt="karma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg"
-      alt="sketch"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
       width="40"
       height="40"
     />
